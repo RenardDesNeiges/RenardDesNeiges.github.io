@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QI am an aspiring machine learning/learning theory researcher, I hold a Master of Sciences in Robotics with a minor in Data Science as well as a Bachelor in Microengineering.\\E$"}
