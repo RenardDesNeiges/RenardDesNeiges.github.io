@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Past academic (and a little bit of industrial) work.
+description: Past academic (and a little bit of industrial) work. Many of those are quite applied and geared towards robotics, but recently I have been more and more interested in theory so perhaps the project most representative of my current intersets is the contrained IRL project (which is my Master Thesis subject).
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work]
 horizontal: false
 ---
 
